@@ -1,15 +1,6 @@
 [
-  {
-    "UTM_E_wgs84": 392958,
-    "UTM_N_wgs84": 7449832,
-    "Elevation": 1426.348105,
-    "Ag_ppm": -3,
-    "Cu_Rank_pp": 116,
-    "Fe_pct": 1.43
-  },
-  {
-    "UTM_E_wgs84": 396187,
-    "UTM_N_wgs84": 7449342,
+  { "UTM_E_wgs84": 392958,"UTM_N_wgs84": 7449832,"Elevation": 1426.348105,"Ag_ppm": -3,"Cu_Rank_pp": 116,"Fe_pct": 1.43 },
+  { "UTM_E_wgs84": 396187,"UTM_N_wgs84": 7449342,
     "Elevation": 1703.201403,
     "Ag_ppm": -3,
     "Cu_Rank_pp": 56150,
